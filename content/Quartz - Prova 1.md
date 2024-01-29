@@ -1,8 +1,7 @@
 ---
-title: "Untitled"
+title: Quartz - Prova 1
 draft: false
 tags:
-  - 
 ---
 # Quartz - Primera prova
 
