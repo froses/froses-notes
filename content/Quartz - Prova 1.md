@@ -24,3 +24,5 @@ també haurien de passar.
 I les llistes de tasques:
 - [ ] Tasca 1
 - [ ] Tasca 2
+
+Les tasques són estàtiques i aquesta nota està a la carpeta `content`

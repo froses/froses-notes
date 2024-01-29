@@ -24,3 +24,5 @@ també haurien de passar.
 I les llistes de tasques:
 - [ ] Tasca 1
 - [ ] Tasca 2
+
+Sembla que les tasques no acaben de funcionar perquè són estàtiques. No podem **completar** una tasca.
