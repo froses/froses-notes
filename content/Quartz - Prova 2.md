@@ -11,3 +11,5 @@ Aquesta nota és la segona que faig de prova. No conté cap element en particula
 A veure què fa amb tot això…
 
 Aquesta nota és a la carpeta `Contents`.
+
+Mira també [[Quartz - Prova 1]] i [[Nota a la carpeta de proves]]

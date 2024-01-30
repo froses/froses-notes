@@ -25,4 +25,8 @@ I les llistes de tasques:
 - [ ] Tasca 1
 - [ ] Tasca 2
 
-Les tasques són estàtiques i aquesta nota està a la carpeta `content`
+Les tasques són estàtiques i aquesta nota està a la carpeta `content`.
+
+Ahir funcionava el web i ara no funciona. Alguna cosa ha passat perquè si busques una nota, hi és, però no es veu a l’índex.
+
+Mira també [[Quartz - Prova 2]] i [[Nota a la carpeta de proves]]
