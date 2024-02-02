@@ -1,6 +1,8 @@
 ---
-title: "<% tp.file.title %>"
+title: <% tp.file.title %>
+aliases: 
+tags: 
+description: 
+date: 
 draft: false
-tags:
-  - 
 ---
